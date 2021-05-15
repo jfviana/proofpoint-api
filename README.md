@@ -1,2 +1,2 @@
 # proofpoint-api
-This project aims at sharing some Powershell scripts using Proofpoint API
+This repository aims at sharing some Powershell scripts using Proofpoint API
